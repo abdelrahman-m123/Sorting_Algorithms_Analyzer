@@ -15,5 +15,5 @@ This is a python app that compares sorting algorithm's effeciency against each o
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="Screenshot 2025-02-06 063135.png"/>
 
